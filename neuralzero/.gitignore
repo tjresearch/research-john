@@ -1,0 +1,12 @@
+*.py[cod]
+__pycache__/
+
+db.sqlite3
+
+secret.py
+
+.venv/
+venv/
+
+/.mypy_cache/
+/.pytype/
